@@ -1,5 +1,5 @@
 # java_POO
- Programação Orientado a Objetos utilizando a linguagem Java
+ Programação Orientado a Objetos utilizando a linguagem Java - Cursos da plataforma Alura
  
 Programação Orientada a Objetos utilizando a linguagem Java
 
