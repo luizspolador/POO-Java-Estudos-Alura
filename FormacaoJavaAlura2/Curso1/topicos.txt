@@ -1,0 +1,9 @@
+metodo main
+variaveis
+sout
+comparacao de strings (equals)
+formatacao de strings
+else if
+switch case
+for
+leitura de dados utilizando scanner
