@@ -1,0 +1,10 @@
+abstração - classes, atributos, métodos e objetos
+
+encapsulamento - pacotes, visibilidade (public, protected, private), getters e setters
+this -> refere-se ao objeto e não ao parâmetro do método
+
+herança
+
+polimorfismo
+
+interface
