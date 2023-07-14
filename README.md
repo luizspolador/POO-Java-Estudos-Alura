@@ -1,5 +1,7 @@
 <h1 align="center">Estudos de Programação Orientada a Objetos - Java</h1>
 
+Formação de programação orientada a objetos utilizando a linguagem Java da plataforma Alura.
+
 ### Principais tópicos abordados
 - Tipos primitivos
 - Variáveis e métodos
