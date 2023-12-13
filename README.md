@@ -18,5 +18,6 @@ Formação de programação orientada a objetos utilizando a linguagem Java da p
 - Polimorfismo
 - Tratamento de exceções
 - Principais bibliotecas: Java Util, Java Io
+- Collections: List, Set, Map
 - TDD
 
